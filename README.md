@@ -1,1 +1,2 @@
 Download [data](https://archive.ics.uci.edu/ml/machine-learning-databases/magic/magic04.data) to `/data` directory
+Learning from this [youtube video](https://www.youtube.com/watch?v=i_LwzRVP7bg&t=2036s).
