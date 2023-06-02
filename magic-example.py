@@ -33,7 +33,7 @@ for label in cols[:-1]:
   plt.ylabel("Probability")
   plt.xlabel(label)
   plt.legend()
-  # plt.show()
+  plt.show()
 
 train, valid, test = np.split(df.sample(frac=1), [int(0.6*len(df)), int(0.8*len(df))])
 # print(train, valid, test)
